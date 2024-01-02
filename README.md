@@ -1,4 +1,4 @@
-# Applied-Regression
+# Regression
 
 Coursework I have done related to Regression concepts and for my "Applied Regression" course.  
 
